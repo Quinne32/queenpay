@@ -13,3 +13,12 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     </html>
   );
 }
+
+{
+  /* <section className="bg-teal-900">
+  <div>
+    <h4>STEP</h4>
+    <h1>Maximise your returns with a Reserve account that generates </h1>
+  </div>
+</section>; */
+}
