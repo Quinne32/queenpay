@@ -1,4 +1,3 @@
-// components/RevenueChart.tsx
 "use client";
 import { useRef, useState, useEffect } from "react";
 import {

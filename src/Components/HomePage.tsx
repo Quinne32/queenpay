@@ -271,7 +271,7 @@ const Navbar = () => {
           <h3 className="text-sm text-teal-600 text-center">OUR MISSION</h3>
 
           <h1 className="font-semibold text-2xl md:text-4xl max-w-full md:max-w-[400px] text-center mx-auto py-4">
-            We've helped innovative companies
+            We&apost; helped innovative companies
           </h1>
 
           <p className="text-gray-500 max-w-full md:max-w-[400px] text-center mx-auto py-4 text-sm md:text-base">
