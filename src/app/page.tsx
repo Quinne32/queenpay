@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
-import "../styles/globals.css";
-import HomePage from "@/Components/HomePage";
+import "./globals.css";
+import HomePage from "@/components/HomePage";
 
 export default function Home() {
   return (
